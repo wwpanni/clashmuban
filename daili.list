@@ -1,0 +1,16 @@
+# 域名后缀匹配
+DOMAIN-SUFFIX,cloudflare.com
+DOMAIN-SUFFIX,mobatek.net
+DOMAIN-SUFFIX,workers.dev
+DOMAIN-SUFFIX,qichiyu.com
+DOMAIN-SUFFIX,greasyfork.org
+DOMAIN-SUFFIX,v2rayssr.com
+DOMAIN-SUFFIX,docker.com
+
+# 内容：Steam
+# 数量：1
+DOMAIN-SUFFIX,steamstatic.com
+
+# 内容：rockstar
+# 数量：1
+DOMAIN-SUFFIX,rockstargames.com
