@@ -4,7 +4,7 @@ https://git.workgo.top/https://raw.githubusercontent.com/wwpanni/clashmuban/refs
 ```
 # 订阅转换服务地址
 ```sh
-192.168.31.3:25500
+192.168.31.3:25500/sub
 ```
 # XMRth订阅链接
 https://www.xmrth.lol/user
