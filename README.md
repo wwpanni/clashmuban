@@ -12,7 +12,8 @@ https://www.xmrth.lol/user
 https://hongxingyun.xyz/
 
 # 订阅转换服务搭建
-```docker compose
+docker compose
+```compose
 version: '3.1' 
 services:
     "subconverter":
