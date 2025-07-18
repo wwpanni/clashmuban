@@ -4,7 +4,7 @@ www.jjgo.top:25500/sub
 ```
 # 模板地址
 ```sh
-https://git.workgo.top/https://raw.githubusercontent.com/wwpanni/clashmuban/refs/heads/main/clash.ini
+https://git.workgo.top/https://raw.githubusercontent.com/wwpanni/clashmuban/refs/heads/main/clash1.ini
 ```
 # XMRth订阅链接
 https://www.xmrth.lol/user
