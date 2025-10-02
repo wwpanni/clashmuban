@@ -12,10 +12,7 @@ DOMAIN-SUFFIX,alist.nn.ci
 DOMAIN-SUFFIX,clouddrive2.com
 DOMAIN-SUFFIX,telegram.org
 
-# 内容：Steam
-# 数量：1
-DOMAIN-SUFFIX,steamstatic.com
-DOMAIN-SUFFIX,steampowered.com
+
 
 # 内容：rockstar
 # 数量：1
